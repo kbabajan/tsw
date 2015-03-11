@@ -8,3 +8,7 @@ Główną funkcjonalnością aplikacji będzie znajdywanie położenia geolokali
 Aplikacja oferować będzie dostarczanie informacji w różnych wersjach językowych.
 
 Docelowo najważniejszymi ogłoszeniodawcami będą przedsiębiorstwa oferujące usługi gastronomiczne, hotelarskie, motoryzacjne i pomniejsze (np. usługi fryzjerskie czy transportowe - taxi, etc.).
+
+Promocja serwisu będzie oparta na portalach społecznościowych typu Facebook.
+
+Umieszczanie informacji będzie bezpłatne a koszty związane z utrzymaniem serwisu będą pokrywały reklamy AdSense.
